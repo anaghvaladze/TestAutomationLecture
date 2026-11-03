@@ -2,9 +2,8 @@ package org.example;
 
 public class FirstLecture {
     static void main() {
-//   თუ პროდუქტის ფასი 100 ლარის ტოლი ან მეტია,მომხმარებელს გაუკეთებს 10 % ფასდაკლებას
-//        სხვა შემთხვევაში პროდიქტის ფასი უცვლელი დარჩება
-//        დაბეჭდავს საბოლოო ფასს
+
+        //1
 
         double productPrice = 103;
         double finalPrice = productPrice;
