@@ -5,6 +5,8 @@ public class FirstLecture {
 
         //1
 
+        
+
         double productPrice = 103;
         double finalPrice = productPrice;
 
